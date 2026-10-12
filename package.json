@@ -1,0 +1,37 @@
+{
+  "name": "conx-viewer",
+  "description": "ConX viewer for IFC models and digital product passports",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "viewer/src/ifc-viewer-api.ts",
+  "author": "hottgenroth",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HottgenrothGit/conx-viewer.git"
+  },
+  "scripts": {
+    "install-yarn-global": "npm i -g yarn",
+    "init-repo": "yarn && npm run build",
+    "start": "cd example && yarn start",
+    "open-url": "call start http://localhost:5000",
+    "start-open": "npm run open-url && npm run start",
+    "build": "cd viewer && yarn build && cd ../example && yarn build"
+  },
+  "bugs": {
+    "url": "https://github.com/HottgenrothGit/conx-viewer/issues"
+  },
+  "keywords": [
+    "ifc",
+    "geometry",
+    "threejs",
+    "bim",
+    "3d",
+    "construct-x"
+  ],
+  "workspaces": [
+    "viewer",
+    "example"
+  ]
+}

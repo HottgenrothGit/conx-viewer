@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 67.733331 67.733331"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="double-folder-icon.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="0.921875"
+     inkscape:cx="128"
+     inkscape:cy="128"
+     inkscape:window-x="2696"
+     inkscape:window-y="232"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <path
+       style="fill:#f5f4ff;fill-opacity:0.54285697;stroke:#000000;stroke-width:0.68564099;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.85238097"
+       d="M 8.5515435,29.029334 8.4492633,63.677758 H 64.217869 V 22.292099 H 44.26396 l -1.534915,3.26167 c 0,0 -0.755397,1.872726 -1.739578,2.51308 -0.796289,0.51811 -2.609345,0.962485 -2.609345,0.962485 z"
+       id="path1417-9-2"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#dfddf9;fill-opacity:1;stroke:none;stroke-width:0.749265;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2"
+       width="5.6320024"
+       height="22.556313"
+       x="17.445673"
+       y="1.8180493" />
+    <rect
+       style="fill:#dfddf9;fill-opacity:1;stroke:none;stroke-width:0.749265;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2-1"
+       width="5.6320024"
+       height="22.556313"
+       x="10.266935"
+       y="-32.134239"
+       transform="rotate(90)" />
+  </g>
+</svg>
